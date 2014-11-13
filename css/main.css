@@ -38,6 +38,7 @@ small, .font_small {font-size: 0.707em;}
 
 img { max-width: 100%; }
 
+h1, h2 { border-bottom: 1px solid #ddd;}
 
 .container {
   max-width: 600px;
